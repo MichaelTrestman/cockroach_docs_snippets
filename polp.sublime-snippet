@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+[principle of least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>polp</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
